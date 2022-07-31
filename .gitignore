@@ -18,3 +18,4 @@ README-template.md
 README.md
 /design
 node_modules
+.parcel-cache
